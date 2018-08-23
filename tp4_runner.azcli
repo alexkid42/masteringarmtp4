@@ -1,0 +1,2 @@
+az group create --name "tp4" --location "francecentral"
+az group deployment create --template-file tp4_template.json --resource-group tp4

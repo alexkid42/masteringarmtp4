@@ -1,0 +1,1 @@
+# Define  MMMddsssh-agent sh -c 'ssh-add ~/.ssh/id_rsa

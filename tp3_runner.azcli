@@ -1,0 +1,5 @@
+
+
+az group create --name "tp3" --location "francecentral"
+az group deployment create --template-file tp3_template.json --resource-group tp3
+
