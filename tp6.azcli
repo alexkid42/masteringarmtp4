@@ -1,0 +1,5 @@
+az group create --name "tp5" --location "francecentral"
+az group deployment create --template-file tp5_template.json --resource-group tp5
+az group delete --name "tp5"y
+
+
